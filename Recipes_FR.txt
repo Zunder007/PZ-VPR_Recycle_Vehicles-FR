@@ -1,0 +1,9 @@
+Recipe_FR = {
+	Recipe_Dismantle_Car_Brake = "Démonter",
+	Recipe_Dismantle_Car_Door = "Démonter",
+	Recipe_Dismantle_Car_Gas_Tank = "Démonter",
+	Recipe_Dismantle_Car_Hood = "Démonter",
+	Recipe_Dismantle_Car_Muffler = "Démonter",
+	Recipe_Dismantle_Car_Suspension = "Démonter",
+	Recipe_Dismantle_Car_Trunk_Lid = "Démonter",
+}
